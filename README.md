@@ -29,6 +29,10 @@ How to use
 	}
 ```
 
+If you don't need all the model properties just do a projection :
+
+```C# var addresses = FakeAddressGenerator.Generate(1000000).Select(q => new {PostCode = q.PostCode});```
+           
 Sample Output
 ---
 
