@@ -66,5 +66,15 @@ namespace FakeAddressUK.Tests {
 
         }
 
+        [TestMethod]
+        public void IterateProjectionAddresses() {
+
+            var addresses = FakeAddressGenerator.Generate(1000000).Select(q => new {PostCode = q.PostCode});
+            foreach (var address in addresses) {
+                Assert.IsNotNull(address.PostCode);
+            }
+
+        }
+
     }
 }
