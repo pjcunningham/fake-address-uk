@@ -1,0 +1,93 @@
+﻿Alderney
+Anglesey
+Argyllshire
+Avon
+Ayrshire
+Bedfordshire
+Berkshire
+Borders
+Buckinghamshire
+Cambridgeshire
+Central
+Cheshire
+Cleveland
+Clwyd
+Cornwall
+County Durham
+County Kerry
+Cumbria
+Derbyshire
+Devon
+Dorset
+Dumfries & Galloway
+Dyfed
+East Yorkshire
+Essex
+Europe
+Fife
+Flintshire
+France
+Gloucestershire
+Grampian
+Greater London
+Greater Manchester
+Guernsey
+Gwent
+Gwynedd
+Hampshire
+Herefordshire & Worcestershire
+Hertfordshire
+Highlands
+Humberside
+Isle Of Arran
+Isle Of Barra
+Isle Of Lewis
+Isle Of Man
+Isle Of Mull
+Isle Of Scilly
+Isle Of Skye
+Isle Of Wight
+Jersey
+Kent
+Lanarkshire
+Lancashire
+Leicestershire
+Lincolnshire
+Lothian
+Merseyside
+Mid Glamorgan
+Middlesex
+Norfolk
+North Humberside
+North Uist
+North Yorkshire
+Northamptonshire
+Northern Ireland
+Northumberland
+Nottinghamshire
+Orkney
+Oxfordshire
+Powys
+Republic Of Ireland
+Shetland Islands
+Shropshire
+Somerset
+South Glamorgan
+South Yorkshire
+Staffordshire
+Strathclyde
+Suffolk
+Surrey
+Sussex East
+Sussex West
+Sweden
+Tayside
+Tyne & Wear
+Warwickshire
+West Glamorgan
+West Indies
+West Midlands
+West Yorkshire
+Western Isles
+Wiltshire
+Worcestershire
