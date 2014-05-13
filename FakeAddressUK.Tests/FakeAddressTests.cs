@@ -76,5 +76,17 @@ namespace FakeAddressUK.Tests {
 
         }
 
+        [TestMethod]
+        public void TestActualCountAddresses() {
+
+            var addresses = FakeAddressGenerator.Generate(10);
+            var counter = 0;
+            foreach (var address in addresses) {
+                counter++;
+            }
+            Assert.AreEqual(10, counter);
+
+        }
+
     }
 }
