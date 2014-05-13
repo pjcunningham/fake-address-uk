@@ -71,8 +71,7 @@ namespace FakeAddressUK {
         public static IEnumerable<FakeAddress> Generate(int total) {
           
             var count = 0;
-            while (count < total) {               
-                count++;
+            while (count < total ) {               
                 yield return new FakeAddress {
                     Address = _Addresses[_Random.Next(_AddressesCount)], 
                     BuildingName = _Buildings[_Random.Next(_BuildingsCount)],
@@ -83,6 +82,7 @@ namespace FakeAddressUK {
                     County = _Counties[_Random.Next(_CountiesCount)],
                     PostCode = _PostCodes[_Random.Next(_PostCodesCount)],
                 };
+                count++;
             }
         }
 
